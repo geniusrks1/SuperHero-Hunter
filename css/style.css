@@ -5,8 +5,8 @@ body{
 }
 #searchHero{
     display: block;
-    width: 53%;
-    height: 3rem;
+    width: 16%;
+    /* height: 3rem; */
     margin: 0 auto;
     font-size: 1.3rem;
     margin-bottom: 1rem;
@@ -16,12 +16,16 @@ body{
 }
 #main-heading{
     text-align: center;
-    font-size: 30px;
+    font-size: 1.6rem;
+    border: 2px solid black;
+    background-color:rgb(174, 161, 161);
+    padding: 5px;
+    
+    margin: 10px auto;
+    height: fit-content;
+    width: 15%;
     color: rgb(17, 10, 10);
-    background-color: rgb(178, 143, 143);
-    padding: 20px;
-    margin-left: 360px;
-    margin-right: 360px;
+    text-decoration:wavy
     
 }
 
@@ -36,10 +40,10 @@ ul{
     flex-direction: column;
     justify-content: space-between;
     align-items: flex-start;
-    border: 2px solid black;
+
     overflow: scroll;
-    height: 60vh;
-    width: 50%;
+    /* height: 60vh;
+    width: 50%; */
     margin: 0 auto;
     background-color: white;
 }
