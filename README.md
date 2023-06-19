@@ -11,8 +11,8 @@ Home Page
 
 
 My Favourite Super Heroes List
+https://geniusrks1.github.io/SuperHero-Hunter/favHeroes.html
 
-
-Added to Favourite List
-
+details
+https://geniusrks1.github.io/SuperHero-Hunter/heroDetails.html
 
